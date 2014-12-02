@@ -1,0 +1,9 @@
+welkom bij de start gids van ons project
+
+1) laad de sql in op de database
+2) open de map groep3java
+3) daarin open je de map dist
+4) dubbel klik op de jar file Goep3java
+
+ENJOY
+kevin,Steven,Maxim,Alexander 
